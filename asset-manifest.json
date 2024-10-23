@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ezprints2.0/static/css/main.beae0ba8.css",
+    "main.js": "/Ezprints2.0/static/js/main.9a5a2fc8.js",
+    "static/js/453.c27fb334.chunk.js": "/Ezprints2.0/static/js/453.c27fb334.chunk.js",
+    "index.html": "/Ezprints2.0/index.html",
+    "main.beae0ba8.css.map": "/Ezprints2.0/static/css/main.beae0ba8.css.map",
+    "main.9a5a2fc8.js.map": "/Ezprints2.0/static/js/main.9a5a2fc8.js.map",
+    "453.c27fb334.chunk.js.map": "/Ezprints2.0/static/js/453.c27fb334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beae0ba8.css",
+    "static/js/main.9a5a2fc8.js"
+  ]
+}
